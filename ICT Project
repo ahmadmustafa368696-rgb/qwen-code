@@ -1,0 +1,21 @@
+Aerodome is a prediction-based air defense algorithm which uses machine learning to predict the likelihood 
+of future threats with passive input. 
+Objectives: 
+1. To read and analyze raw historical air intrusion data on an excel sheet 
+2. To train and develop a machine learning model using libraries in Python 
+3. To use the model in predicting threats and conducting threat assessment using incoming data 
+4. To visualize the processed data in graphs and charts 
+5. Implement mathematical prediction algorithms on the data 
+6. To store the results in a cloud storage platform 
+Unlike traditional air defense systems that respond to existing threats, Mjolnir uses machine learning and 
+mathematical prediction models to forecast the probability of penetration, allowing for suitabke defensive 
+measures to be taken. 
+Libraries Used: 
+● NumPy: For complex mathematical and statistical operations 
+● Openpyxl: To open and read .xlsx files 
+● Pandas: For reading and manipulating excel data 
+● SciKit-learn: Machine learning library to train and develop the model 
+● Joblib: To save and load machine learning models 
+● io: For processing live data 
+● Google Cloud Storage: To save results in google cloud 
+● AsaPy: For aerospace simulation integration (potentially used)
